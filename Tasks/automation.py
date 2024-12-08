@@ -4,12 +4,10 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import json
 import uuid
-import openai # Import the OpenAI library
 import random
-import time  # Import the time module for scheduling
+import time 
+import g4f 
 
-# Set up OpenAI API key
-openai.api_key = 'your_api_key_here'
 
 # Function to fetch content from a URL and remove HTML tags
 def fetch_content(url):
@@ -31,7 +29,7 @@ def fetch_content(url):
 def generate_summary(text):
     try:
         # Generate summary using OpenAI API
-        summary = openai.Completion.create(
+        summary = g4f.Completion.create(
             engine="davinci",
             prompt=text,
             max_tokens=150
