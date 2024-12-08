@@ -55,10 +55,7 @@ Based on the research conducted, the following 10 reliable sources specializing 
     - _Description_: List of Current projects
     - _Website_: [https://www.cityofwasco.org/311/Current-Projects]
 
-## Why Use GPT-3
+## Why Use GPT-3.5-Turbo
 
 Language models like GPT can assist in expanding our search queries, refining search results, or generating summaries of information from various sources. They can help streamline the research process and uncover potentially hidden or niche data sources that might be overlooked through conventional search methods alone.
 
-- **Idea Generation**: GPT-3 excels at suggesting starting points and potential avenues for research, particularly when the field is unfamiliar.
-- **Efficiency**: GPT-3 can quickly process information and identify patterns, helping to streamline the initial discovery phase of the research.
-- **Overcoming Bias**: By drawing upon GPT-3's vast knowledge base, you can potentially uncover sources that might be overlooked due to personal biases or limited search habits.
