@@ -1,0 +1,41 @@
+[33mcommit cab45350887fd8d1e709eb585fca465a7b0046e3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Diya910 <khetarpaldiya@gmail.com>
+Date:   Sun Dec 8 16:21:16 2024 +0530
+
+    California Construction And Infrastructure Data Scraping
+
+[33mcommit 9353b61ac9366ccbffafb3d48a391310ea7f9cd5[m
+Author: Mohammad Ariz <111780343+ariz565@users.noreply.github.com>
+Date:   Wed May 8 23:59:24 2024 +0530
+
+    Add files via upload
+
+[33mcommit b67dbc97912381bf133c2c1a90effe69cbfd947b[m
+Author: Mohammad Ariz <111780343+ariz565@users.noreply.github.com>
+Date:   Wed May 8 23:59:02 2024 +0530
+
+    Add files via upload
+
+[33mcommit 6efc14f238d050377064e78094be6b70133a5a01[m
+Author: Mohammad Ariz <111780343+ariz565@users.noreply.github.com>
+Date:   Wed May 8 23:58:23 2024 +0530
+
+    Added the routes, endpoints and required dependencies
+
+[33mcommit 4674ead32e946707e64cfd3623fdd522eba0b11c[m
+Author: ariz565 <mohdariz.phy@gmail.com>
+Date:   Wed May 8 18:30:31 2024 +0530
+
+    Added <Tasks>: completed sourcing, extration, and automation tasks
+
+[33mcommit fac329f68fdd39e62a7cbbed69dc59d6d30aa9a4[m
+Author: ariz565 <mohdariz.phy@gmail.com>
+Date:   Wed May 8 17:45:00 2024 +0530
+
+    Added <Methodology.md>: Mentioning reliable sources and use of LLMs
+
+[33mcommit 33899905156f7ab2b01d0947048ef08c0c2a9700[m
+Author: ariz565 <mohdariz.phy@gmail.com>
+Date:   Mon May 6 16:19:37 2024 +0530
+
+    Added <Readme>:Task Description
