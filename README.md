@@ -1,7 +1,5 @@
 # 🌎 California Data Scraping
 
-![California Data Scraping](https://user-images.githubusercontent.com/Diya910/banner-image.png)  
-
 ## 📌 Overview
 Welcome to **California Data Scraping**, a powerful web scraping project designed to collect and analyze data from various sources in California. This project automates the extraction of valuable information using Python and web scraping tools.
 
